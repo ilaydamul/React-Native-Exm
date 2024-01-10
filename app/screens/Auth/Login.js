@@ -1,9 +1,9 @@
 import { View, Text } from "react-native";
 
-export default function Favorites() {
+export default function Login() {
   return (
     <View>
-      <Text>Favorites</Text>
+      <Text>Login</Text>
     </View>
   );
 }
