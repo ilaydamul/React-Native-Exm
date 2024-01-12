@@ -29,7 +29,7 @@ export default function App() {
   return (
     <>
       <NavigationContainer>
-        <MyDrawer/>
+        <MyDrawer />
         {/* <Stack.Navigator>
           <Stack.Screen
             name="Home"
